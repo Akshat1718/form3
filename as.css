@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(191, 191, 205);
+    display:inline-flex;
+    align-items: center;
+    background-image: url(https://media.istockphoto.com/id/526552300/photo/defocused-empty-office-interior-and-a-wooden-background.jpg?s=612x612&w=0&k=20&c=nRV_R1RJi4w1CvK1Co8SHXHZiqM95IfdL91B0TtxZK8=);
+    background-size: cover;
+  background-repeat: no-repeat;
+  }
+ 
+
+label{
+    font-size: 27px;
+    font-weight: bold;
+}
+
+input{
+     border: 10px;
+     border-color: black;
+     border-radius: 3px;
+     padding: 4px;
+     background-color:azure;
+     
+}
+
+button{
+    padding: 6px;
+    width: 76px;
+    position: relative;
+    left: 115px;
+    border-radius: 8px;
+}
+form{
+    border: 5px solid black;
+    box-shadow: 10px 8px 8px;
+    margin-left: 583px;
+    margin-top: 26px;
+    padding-left: 59px;
+    padding-top: 38px;
+    padding-bottom: 38px;
+    padding-right: 40px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+}
+
+.st1{
+    font-size: 20px;
+   
+}
+
+.st2{
+    font-size: 20px;
+}
+.st3{
+    font-size: 20px;
+}
